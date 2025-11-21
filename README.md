@@ -15,8 +15,6 @@ This project demonstrates a complete data workflow: starting with raw CSV data, 
 ✔️ **Data Modeling (Star Schema)** to organize data into 1 Fact Table and 4 Dimension Tables.
 ✔️ **Data Normalization** to reduce redundancy and improve query performance.
 ✔️ **Pivot Tables** for data aggregation and multi-dimensional analysis.
-✔️ **Advanced Charting** including **Combo Charts** (Dual Axis), **Funnel Charts**, and **Donut Charts**.
-✔️ **UI/UX Design** implementing a modern "Dark Corporate" aesthetic with Z-pattern layout.
 ✔️ **Slicers & Interactivity** to filter data by Year, Region, and Category instantly.
 
 ## 📚 Table of Contents
@@ -76,7 +74,7 @@ The backbone of this dashboard is a robust **Star Schema** model created to opti
 ### 3. Monthly Sales Trends (Line chart)
 <img width="722" height="452" alt="image" src="https://github.com/user-attachments/assets/611f412e-daef-4ff3-b601-fd9ce3f9787c" />
 
-### 5. Global Regional Performance (Donut Chart)
+### 4. Global Regional Performance (Donut Chart)
 <img width="721" height="452" alt="image" src="https://github.com/user-attachments/assets/470ef3ac-a331-4de1-aedc-cf393d0a49de" />
 
 **Insight:** The **United States** is the top-performing physical region, but **"Online"** sales have emerged as the second-largest "region," outperforming major countries like the UK and Germany combined.
@@ -88,6 +86,5 @@ The analysis reveals a highly profitable business ($32.7M Profit) driven by a ma
 
 ### 💡 Recommendations
 1.  **Target the 60+ Demographic:** Shift marketing imagery and campaigns to resonate with the mature audience that is driving $18M+ in sales, rather than targeting Gen Z.
-2.  **Operational Staffing:** drastic increase in warehouse/store staffing is required for **Saturdays** to handle the $13M volume spike, while Sunday operations can be minimized.
-3.  **Supplier Strategy:** Negotiate exclusive deals or volume discounts with **Adventure Works** and **Contoso** as they are the anchors of the business.
-4.  **Product Mix:** Promote "Audio" products in bundles with "Computers" to attach high-margin items to high-volume purchases.
+2.  **Supplier Strategy:** Negotiate exclusive deals or volume discounts with **Adventure Works** and **Contoso** as they are the anchors of the business.
+3.  **Product Mix:** Promote "Audio" products in bundles with "Computers" to attach high-margin items to high-volume purchases.
