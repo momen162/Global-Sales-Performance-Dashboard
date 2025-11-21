@@ -11,10 +11,10 @@ This project demonstrates a complete data workflow: starting with raw CSV data, 
 **Demo:** 
 
 ## 🛠️ Excel Skills Demonstrated
-✔️ **Power Query** for data cleaning, unpivoting, and text manipulation (splitting columns).
-✔️ **Data Modeling (Star Schema)** to organize data into 1 Fact Table and 4 Dimension Tables.
-✔️ **Data Normalization** to reduce redundancy and improve query performance.
-✔️ **Pivot Tables** for data aggregation and multi-dimensional analysis.
+✔️ **Power Query** for data cleaning, unpivoting, and text manipulation (splitting columns).<br>
+✔️ **Data Modeling (Star Schema)** to organize data into 1 Fact Table and 4 Dimension Tables.<br>
+✔️ **Data Normalization** to reduce redundancy and improve query performance.<br>
+✔️ **Pivot Tables** for data aggregation and multi-dimensional analysis.<br>
 ✔️ **Slicers & Interactivity** to filter data by Year, Region, and Category instantly.
 
 ## 📚 Table of Contents
@@ -24,12 +24,12 @@ This project demonstrates a complete data workflow: starting with raw CSV data, 
 4. [Conclusion & Recommendations](#conclusion--recommendations)
 
 ## Problem Statement
-This dashboard was built to answer key strategic questions for the executive team:
-💰 **Financial Health:** What is our total revenue, profit, and profit margin efficiency?
-🌍 **Geography:** Which regions (and channels like Online vs. Store) are driving growth?
-👥 **Demographics:** Who is our ideal customer profile (Age, Gender)?
-🏆 **Product Strategy:** Which brands and categories yield the highest ROI?
-📅 **Seasonality:** What are the weekly and monthly trends we need to prepare for?
+This dashboard was built to answer key strategic questions for the executive team:<br>
+💰 **Financial Health:** What is our total revenue, profit, and profit margin efficiency?<br>
+🌍 **Geography:** Which regions (and channels like Online vs. Store) are driving growth?<br>
+👥 **Demographics:** Who is our ideal customer profile (Age, Gender)?<br>
+🏆 **Product Strategy:** Which brands and categories yield the highest ROI?<br>
+📅 **Seasonality:** What are the weekly and monthly trends we need to prepare for?<br>
 
 **Features:** Order Date, Store Country, Product Category, Brand, Customer DOB, Quantity, Price, Cost.
 
